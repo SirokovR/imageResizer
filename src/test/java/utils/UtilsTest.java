@@ -15,9 +15,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class UtilsTest {
 
-    @Test
-    void encodedFileToBase64String() {
-    }
 
     @Test
     void writeEncodedImageToFile() throws IOException, ImageResizerException, ImageCompressionException {
